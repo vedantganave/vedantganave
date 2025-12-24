@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Vedant Ganave
 
-<!--
-**vedantganave/vedantganave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT Final Year Student  
+📊 Aspiring Data Analyst  
+💻 Interested in Data Analytics & Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- Python (Basics to Intermediate)
+- SQL (Queries, Joins, Subqueries)
+- Microsoft Excel (Data Cleaning, Formulas)
+- Data Analysis Basics
+- Git & GitHub
+
+---
+
+## 📂 What You'll Find Here
+- Python practice programs
+- SQL queries and mini projects
+- Excel-based data analysis work
+- Academic and self-learning projects
+
+---
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Python for Data Analysis
+- Data Visualization
+  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vedant-ganave-308976294
+
+⭐ Always learning and improving my skills!
